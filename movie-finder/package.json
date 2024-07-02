@@ -1,0 +1,3 @@
+"scripts": {
+  "build:css": "postcss src/styles/tailwind.css -o dist/tailwind.css"
+}
